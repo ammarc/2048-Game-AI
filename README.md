@@ -1,6 +1,6 @@
 # 2048 Game AI
 This was made as part of an Algorithms subject during my university
-studies. The AI uses a modified version of Dijstra's algorithm to
+studies. The AI uses a modified version of Dijkstra's algorithm to
 score as high as possible.
 
 To run, first compile the program using the given Makefile and then
